@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f026ae03-cbfe-4b70-96e1-b555762ce8e4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/multimedia.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IP01/.ipynb_checkpoints/IP_01_class-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/IP01/.ipynb_checkpoints/IP_01_class-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IP01/IP_01_class.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/IP01/IP_01_class.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IP01/TKU.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/IP01/TKU.jpg" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2XZxamvu31FyZMCTLLP04cvzXBe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f026ae03-cbfe-4b70-96e1-b555762ce8e4" name="Changes" comment="" />
+      <created>1698850469565</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698850469565</updated>
+      <workItem from="1698850476192" duration="6000" />
+      <workItem from="1698851128464" duration="23000" />
+      <workItem from="1698851166171" duration="97000" />
+      <workItem from="1698852166402" duration="44000" />
+      <workItem from="1698852330195" duration="6000" />
+      <workItem from="1698852412098" duration="5000" />
+      <workItem from="1698852549363" duration="8000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
